@@ -15,6 +15,6 @@
 8. Data Technology
 
 ### Keen to follow my shameless photography plug?
-
+ *I plan to create a data set based on interaction success with different posting times, color use, locations and collaborations. Hopefully I will then be able to create a time series and begin to understand how different artistic choices I make influences interaction and success.
 * [Motorcycle Instagram](https://www.instagram.com/red.rydes/)
 ![Bike](https://github.com/Harknetto/stats220/blob/main/Tracer%2012%202%2024%20.5.JPG)
